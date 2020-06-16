@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 499.96 433.62">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #161616;
+      }
+
+      .cls-2 {
+        fill: #38b6ff;
+      }
+    </style>
+  </defs>
+  <title>logo-preta</title>
+  <g id="Camada_2" data-name="Camada 2">
+    <g id="Camada_1-2" data-name="Camada 1">
+      <g>
+        <g>
+          <path class="cls-1" d="M205,216.86a74.87,74.87,0,0,1,61.48-73.64L163.74.1h-.17V0H0L24.28,65.16h92.16l86.13,119H25.9v65.23H196.48L108.2,368.29H25.09L0,433.45H59.82l-.12.17h89.59L256.51,288A74.87,74.87,0,0,1,205,216.86Z"/>
+          <path class="cls-1" d="M349.61,189.76,490.33.1h-89.6L296,143.76A75,75,0,0,1,349.61,189.76Z"/>
+          <path class="cls-1" d="M352.88,233.2a75,75,0,0,1-52.36,55.6l105,144.82H500Z"/>
+        </g>
+        <circle class="cls-2" cx="279.98" cy="216.34" r="51.2"/>
+      </g>
+    </g>
+  </g>
+</svg>
